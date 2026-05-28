@@ -1,9 +1,14 @@
 # 💫 About Me:
 # Recent BSc Computer Science Graduate | Full Stack Developer (MERN) | Mumbai
-I build and deploy production-ready MERN stack applications — not just tutorials, but real systems with complex state and real users.
-My projects include a Car Rental platform with live payment flows, booking state management, and a Learning Management System with multi-role access and video progress tracking.
-I've debugged JWT authentication breaks at midnight, resolved server deployment failures under pressure, and optimized database connections — all without a roadmap. That's the kind of ownership I bring to every problem.
+
+I build and deploy production-ready MERN stack applications not just tutorials, but real systems with complex state and real users.
+
+My projects include a Car Rental platform with live payment flows, booking state management and a Learning Management System with multi-role access and video progress tracking.
+
+I've debugged JWT authentication breaks at midnight, resolved server deployment failures under pressure, and optimized database connections all without a roadmap. That's the kind of ownership I bring to every problem.
+
 Currently seeking an entry-level full stack role where I can contribute this production-first mindset from day one.
+
 Stack: React · Node.js · Express · MongoDB · Tailwind CSS
 Tools: Postman · Vercel · Render · GitHub
 
