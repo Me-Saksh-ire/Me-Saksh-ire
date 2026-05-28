@@ -10,6 +10,7 @@ I've debugged JWT authentication breaks at midnight, resolved server deployment 
 Currently seeking an entry-level full stack role where I can contribute this production-first mindset from day one.
 
 Stack: React · Node.js · Express · MongoDB · Tailwind CSS
+
 Tools: Postman · Vercel · Render · GitHub
 
 
